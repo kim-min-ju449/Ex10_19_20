@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ex10_19_20</string>
+    <string name="btn_call">전화걸기</string>
+    <string name="btn_homepage">홈페이지열기</string>
+    <string name="btn_google_map">구글맵열기</string>
+    <string name="btn_google_search">구글 검색</string>
+    <string name="btn_sms">문자보내기</string>
+    <string name="btn_photo">사진 찍기</string>
 </resources>
